@@ -1,0 +1,10 @@
+C:\__DATA\__source_code\___my_useful_SOURCE_CODES\C#-my_source_code\__PGS_exercises\PawnMovingOnAGrid\PawnMovingOnAGrid\bin\Debug\PawnMovingOnAGrid.exe.config
+C:\__DATA\__source_code\___my_useful_SOURCE_CODES\C#-my_source_code\__PGS_exercises\PawnMovingOnAGrid\PawnMovingOnAGrid\bin\Debug\PawnMovingOnAGrid.exe
+C:\__DATA\__source_code\___my_useful_SOURCE_CODES\C#-my_source_code\__PGS_exercises\PawnMovingOnAGrid\PawnMovingOnAGrid\bin\Debug\PawnMovingOnAGrid.pdb
+C:\__DATA\__source_code\___my_useful_SOURCE_CODES\C#-my_source_code\__PGS_exercises\PawnMovingOnAGrid\PawnMovingOnAGrid\obj\Debug\PawnMovingOnAGrid.csproj.CoreCompileInputs.cache
+C:\__DATA\__source_code\___my_useful_SOURCE_CODES\C#-my_source_code\__PGS_exercises\PawnMovingOnAGrid\PawnMovingOnAGrid\obj\Debug\PawnMovingOnAGrid.exe
+C:\__DATA\__source_code\___my_useful_SOURCE_CODES\C#-my_source_code\__PGS_exercises\PawnMovingOnAGrid\PawnMovingOnAGrid\obj\Debug\PawnMovingOnAGrid.pdb
+C:\__DATA\__source_code\___my_useful_SOURCE_CODES\C#-my_source_code\__PGS_exercises\PawnMovingOnAGrid\PawnMovingOnAGrid\obj\Debug\PawnMovingOnAGrid.csprojResolveAssemblyReference.cache
+C:\.GIT\GitHub_projects_-_pokazowe\PawnMovingOnAGrid\PawnMovingOnAGrid\bin\Debug\PawnMovingOnAGrid.exe.config
+C:\.GIT\GitHub_projects_-_pokazowe\PawnMovingOnAGrid\PawnMovingOnAGrid\obj\Debug\PawnMovingOnAGrid.exe
+C:\.GIT\GitHub_projects_-_pokazowe\PawnMovingOnAGrid\PawnMovingOnAGrid\obj\Debug\PawnMovingOnAGrid.pdb

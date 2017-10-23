@@ -1,0 +1,5 @@
+C:\__DATA\__source_code\___my_useful_SOURCE_CODES\C#-my_source_code\__PGS_exercises\PawnMovingOnAGrid\PawnMovingOnAGrid.Library\obj\Debug\PawnMovingOnAGrid.Library.csproj.CoreCompileInputs.cache
+C:\__DATA\__source_code\___my_useful_SOURCE_CODES\C#-my_source_code\__PGS_exercises\PawnMovingOnAGrid\PawnMovingOnAGrid.Library\bin\Debug\PawnMovingOnAGrid.Library.dll
+C:\__DATA\__source_code\___my_useful_SOURCE_CODES\C#-my_source_code\__PGS_exercises\PawnMovingOnAGrid\PawnMovingOnAGrid.Library\bin\Debug\PawnMovingOnAGrid.Library.pdb
+C:\__DATA\__source_code\___my_useful_SOURCE_CODES\C#-my_source_code\__PGS_exercises\PawnMovingOnAGrid\PawnMovingOnAGrid.Library\obj\Debug\PawnMovingOnAGrid.Library.dll
+C:\__DATA\__source_code\___my_useful_SOURCE_CODES\C#-my_source_code\__PGS_exercises\PawnMovingOnAGrid\PawnMovingOnAGrid.Library\obj\Debug\PawnMovingOnAGrid.Library.pdb
